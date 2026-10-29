@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+jupyter
+
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
