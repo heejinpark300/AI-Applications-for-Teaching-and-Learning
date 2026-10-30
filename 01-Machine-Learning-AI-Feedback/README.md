@@ -44,5 +44,12 @@ The current dataset is randomly generated for demonstration and does not represe
 ## Source Code
 The deployed application source code is currently maintained in the repository root as `app.py`.
 
+## Live Demo
+
+### [▶ Launch AI Feedback Acceptance Predictor](https://ai-applications-for-teaching-and-learning-urhp9aziimqt9mls6zdc.streamlit.app/)
+
+Click the link above to launch the interactive Streamlit application.
+
 ## Deployment
-The application has been deployed using Streamlit Community Cloud.
+
+Deployed using GitHub and Streamlit Community Cloud.
